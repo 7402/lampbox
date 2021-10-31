@@ -1,0 +1,207 @@
+% NS_B
+<s>        sil
+
+% NS_E
+</s>        sil
+
+% COMPUTER
+COMPUTER   k ah m p y uw t er
+
+% WAKE
+ALEXA      ah l eh k s ah
+HEY_GOOGLE hh ey g uw g ah l
+HEY_SIRI   hh ey s ih r iy
+
+% WAKE1
+HEY        hh ey
+
+% WAKE2
+GOOGLE     g uw g ah l
+SIRI       s ih r iy
+
+% ANSWER
+YES           y eh s
+NO            n ow
+
+% RGB_COLOR
+RED           r eh d
+GREEN         g r iy n
+BLUE          b l uw
+
+% OTHER_COLOR
+ORANGE        ao r ah n jh
+YELLOW        y eh l ow
+PURPLE        p er p ah l
+MAROON        m aa r uw n
+
+% DOWN
+DOWN          d aw n
+
+% UP
+UP            ah p
+
+% VOLUME_DOWN
+VOLUME_DOWN          v aa l y uw m d aw n
+
+% VOLUME_UP
+VOLUME_UP            v aa l y uw m ah p
+
+% RESET
+RESET         r iy s eh t
+
+% BLINKY
+BLINKY          b l  ih ng k iy
+
+% LIGHT
+LIGHT         l ay t
+
+% COLOR_LIGHT
+RED_LIGHT         r eh d l ay t
+GREEN_LIGHT         g r iy n l ay t
+BLUE_LIGHT         b l uw l ay t
+ORANGE_LIGHT      ao r ah n jh ah l ay t
+YELLOW_LIGHT      y eh l ow l ay t
+PURPLE_LIGHT      p er p ah l ay t
+MAROON_LIGHT      m aa r uw n l ay t
+
+% LAMP
+LAMP          l ae m p
+
+% LAMP_OFF
+LAMP_OFF          l ae m p ao f
+
+% ON_OFF
+ON            aa n
+OFF           ao f
+
+% OKAY
+OKAY          ow k ey
+
+% REPEAT
+REPEAT        r ih p iy t
+
+% AFTER
+AFTER         ae f t er
+
+% ME
+ME            m iy
+
+% REPEAT_AFTER_ME
+REPEAT_AFTER_ME        r ih p iy t ae f t er m iy
+
+% CHANGE
+CHANGE        ch ey n jh
+
+% VOICE
+VOICE         v oy s
+
+% SHUT
+SHUT          sh ah t
+
+% SHOW
+SHOW          sh ow
+
+% CANCEL
+CANCEL        k ae n s ah l
+
+% DISTANCE
+DISTANCE      d ih s t ah n s
+
+% PLAY
+PLAY          p l ey
+
+% SOUND
+AGAIN         ah g eh n
+SONG          s ao ng
+MUSIC         m y uw z ih k
+
+% PLAY_SOUND
+PLAY_SONG          p l ey s ao ng
+PLAY_MUSIC          p l ey m y uw z ih k
+PLAY_AGAIN          p l ey hh ah g eh n
+PLAY_MESSAGE       p l ey m eh s ah jh
+PLAY_MESSAGES       p l ey m eh s ah jh ah z
+
+% MESSAGE
+MESSAGE       m eh s ah jh
+MESSAGES      m eh s ah jh ah z
+
+% AIR
+AIR           eh r
+
+% QUALITY
+QUALITY       k w aa l ah t iy
+
+% AIR_QUALITY
+AIR_QUALITY       eh r k w aa l ah t iy
+
+% WEATHER
+WEATHER       w eh dh er
+
+% REPORT
+REPORT        r iy p ao r t
+
+% WEATHER_REPORT
+WEATHER_REPORT       w eh dh er iy p ao r t
+
+% THINK
+THINK         th ih ng k
+
+% HARDER
+HARDER        hh aa r d er
+
+% SPARKLE
+SPARKLE       s p aa r k ah l
+
+% EXIT
+EXIT          eh g z ih t
+
+% PROGRAM
+PROGRAM       p r ow g r ae m
+
+% RECORD
+RECORD        r ah k ao r d
+
+% SAVE
+SAVE          s ey v
+
+% DELETE
+DELETE        d ih l iy t
+
+% KEEP
+KEEP          k iy p
+
+% KEEP_MESSAGE
+KEEP_MESSAGE          k iy p m eh s ah jh
+
+% STOP
+STOP          s t aa p
+
+% HELLO
+HELLO         hh ah l ow
+
+% COUNT
+COUNT         k aw n t
+
+% LISTENING
+LISTENING     l ih s ah n ih ng
+
+% SLEEP
+SLEEP         s l iy p
+
+% SWITCH
+SWITCH        s w ih ch
+
+% STATUS
+STATUS        s t ae t ah s
+
+% PHONLET
+ALPHA         ae l f ah
+BRAVO        b r aa v ow
+CHARLIE       ch aa r l iy
+DELTA         d eh l t ah
+ECHO          eh k ow
+FOXTROT           f aa k s t r aa t
+
+% VOLUME
+VOLUME        v aa l y uw m
